@@ -2,9 +2,9 @@
 
 
 ## Requirements
--- python 3.7 or higher
--- tensorflow/keras 2.0/1
--- opencv
+- python 3.7 or higher
+- tensorflow/keras 2.0/1
+- opencv
 
 ## Details about the project
 An re-implementation of Face Mask Detection Project with Mobilnetv2 network 
