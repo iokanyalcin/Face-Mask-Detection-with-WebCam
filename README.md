@@ -22,4 +22,4 @@ This is a real-time face detection project, which is based on MobileNet2 network
 It can also able to do detection on webcam, necessary comments added on the code.
 
 
-Project also inspired from: https://github.com/chandrikadeb7/Face-Mask-Detection
+
